@@ -1,0 +1,19 @@
+######################################################################
+# Generated with fetch
+# Generated with alienpkg
+######################################################################
+maintainer='Vilmar Catafesta <vcatafesta@gmail.com>'
+pkgname='squashfuse'
+version='0.1.103'
+build='3'
+license='custom'
+lfs_version='8.4'
+lfs_init='SYSTEMD'
+arch='x86_64'
+distro='chili'
+desc='FUSE filesystem to mount squashfs archives'
+size='157792'
+url='https://github.com/vasi/squashfuse'
+dep=('')
+depend='fuse2'
+depend='zstd'
